@@ -37,7 +37,7 @@ return [
     
     'google' => [
     'sheet_id' => env('GOOGLE_SHEET_ID'),
-    'credentials_path' => env('GOOGLE_SERVICE_ACCOUNT'),
+    'credentials_path' => storage_path('app/google/credentials.json'),
 ],
 
 ];

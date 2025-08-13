@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "99bb00ff50b0642a74f116b006836e63",
+    "content-hash": "d3154ddab897199a7950f92cb4837661",
     "packages": [
         {
             "name": "brick/math",
@@ -645,16 +645,16 @@
         },
         {
             "name": "google/apiclient",
-            "version": "v2.18.3",
+            "version": "v2.18.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client.git",
-                "reference": "4eee42d201eff054428a4836ec132944d271f051"
+                "reference": "846f149c9f879449145326dad99ef00bf1d879f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/4eee42d201eff054428a4836ec132944d271f051",
-                "reference": "4eee42d201eff054428a4836ec132944d271f051",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/846f149c9f879449145326dad99ef00bf1d879f3",
+                "reference": "846f149c9f879449145326dad99ef00bf1d879f3",
                 "shasum": ""
             },
             "require": {
@@ -708,9 +708,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client/issues",
-                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.18.3"
+                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.18.0"
             },
-            "time": "2025-04-08T21:59:36+00:00"
+            "time": "2024-10-16T21:58:58+00:00"
         },
         {
             "name": "google/apiclient-services",

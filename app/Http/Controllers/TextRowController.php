@@ -101,9 +101,6 @@ public function import(Request $request)
     return redirect()->back()->with('success', 'Google Sheet URL saqlandi!');
 }
 
-
-
-
 public function testSheet(GoogleSheetService $sheet)
 {
     $sheet->write([

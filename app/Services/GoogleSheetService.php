@@ -1,7 +1,10 @@
+<?php
+
 namespace App\Services;
 
 use Google_Client;
 use Google_Service_Sheets;
+use Google_Service_Sheets_ValueRange;
 
 class GoogleSheetService
 {
